@@ -23,8 +23,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DCB9 Vigilant Happiness
   introTitle: "DCB9 Monitor Page"
-  introMessage: 
+  introMessage: Thanks to GitHub and [Upptime](https://github.com/upptime/upptime)
   navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/dcb9/vigilant-happiness
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
