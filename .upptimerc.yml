@@ -3,6 +3,8 @@ repo: vigilant-happiness # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
+  - name: Youtube
+    url: https://www.youtube.com
 status-website: # Status website (optional)
   baseUrl: /repo
   name: Vigilant Happiness
