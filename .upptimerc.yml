@@ -6,6 +6,9 @@ sites: # List of endpoints to track
   - name: Val I
     url: http://161.97.164.135:9901
     method: OPTIONS
+  - name: Val II
+    url: http://194.163.180.0:9901
+    method: OPTIONS
 status-website: # Status website (optional)
-  baseUrl: /repo
+  baseUrl: /vigilant-happiness
   name: Vigilant Happiness
