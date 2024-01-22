@@ -1,8 +1,6 @@
 owner: dcb9 # GitHub username
 repo: vigilant-happiness # GitHub repository name
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
   - name: Val I
     url: http://161.97.164.135:9901
     method: OPTIONS
