@@ -27,7 +27,7 @@
     "url": "http://194.163.180.0:9901",
     "icon": "https://icons.duckduckgo.com/ip3/194.163.180.0.ico",
     "slug": "val-ii",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,8 @@
     "timeWeek": 310,
     "timeMonth": 365,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 0
+    }
   }
 ]
