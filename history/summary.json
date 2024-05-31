@@ -4,7 +4,7 @@
     "url": "http://161.97.164.135:9901",
     "icon": "https://icons.duckduckgo.com/ip3/161.97.164.135.ico",
     "slug": "val-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 271,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2024-05-31": 0,
       "2024-03-08": 99,
       "2024-03-04": 86,
       "2024-02-06": 533,
